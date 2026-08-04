@@ -12,3 +12,5 @@ Questions I want to explore:
 - Should uncertainty depend on task criticality?
 - How can users learn to calibrate trust?
 - What evaluation metrics capture calibration rather than accuracy?
+
+This document is intended as a living research note and will evolve as I read, experiment, and write.
